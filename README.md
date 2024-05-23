@@ -35,7 +35,6 @@ The WRF intermediate data is stored in various sub-folders with the following st
 
 ```
 s3://era5-for-wrf/north_america/2010/05/ERA5*
-	whiffle_wins50_2020_scenario_fields.zarr
 ```
 
 The global timeseries data are stored with the following structure: {grid_cell_id}/timeseries.csv. For example:
@@ -73,7 +72,7 @@ aws s3 ls s3://era5-for-wrf/
     PRE south_america/
     PRE southeast_asia_north/
 ```
-### Veer's web interface
+### Veer's Web Interface
 
 Global timeseries data can also be accessed via a global map-based interface. Head to https://earth.veer.eco to learn more.
 
