@@ -19,7 +19,7 @@ Two scenario's are considered in the WINS50 project:
 
 The figure below shows the spatial extent of the simulation domain, which measures 328 x 492 km with a grid spacing of 128 m. The example wind field around hub heigh shows extensive wakes downstream the various wind farms. The turbines of the the 2020 scenario are represented by the black dots, the turbines of the 2050 scenario by the magenta dots.
 
-![](images/wins50_map_domain_with_windfarms.png)
+![](images/available_regions.png)
 
 The data is organized into four types of output for the 2020 and 2050 scenarios:
 
